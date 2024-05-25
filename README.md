@@ -1,4 +1,4 @@
-# Template-Repo
-Template for a structured Project:
-
-I wanted to create a template for my Project, because everytime I create a new Project I did not have a standard Project folder/file Structure.
+# PDF-Merger
+PDF Merger:
+Merge as many PDFs together.
+Install python, download the Repo and start the .bat file
